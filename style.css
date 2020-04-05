@@ -31,6 +31,13 @@ body{
   color: #293251;
 }
 
+.app-footer p{
+  padding: 5px;
+  margin: 5;
+  font-size: 1.2em;
+  color: #293251;
+}
+
 .notification{
   background-color: #f8d7da;
   display: none;
